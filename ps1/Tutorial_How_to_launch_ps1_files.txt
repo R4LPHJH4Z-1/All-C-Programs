@@ -1,0 +1,5 @@
+Hi guys!!! Today im gonna show you how to launch a ps1 file!!!
+1: Download a ps1 file or make 1
+2: Right click on a file
+3: Tap "Run with PowerShell"
+And your done!
